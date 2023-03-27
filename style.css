@@ -14,6 +14,7 @@ main{
     align-items:center;
     justify-items:;
     flex-direction: column;
+    padding: 10px;
 }
 .div-section{
     display: flex;
