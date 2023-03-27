@@ -1,0 +1,26 @@
+body{
+    padding:0;
+    width:0;
+    box-sizing: border-box;
+    
+    
+}
+
+main{
+    background-color: rgb(153, 224, 224);
+    height: 900px;;
+    width: 900px;;
+    display: flex;
+    align-items:center;
+    justify-items:;
+    flex-direction: column;
+}
+.div-section{
+    display: flex;
+    align-items: flex-end;
+    height: 100px;
+    width: 100px;
+    background-color: blanchedalmond;
+    
+    
+}
