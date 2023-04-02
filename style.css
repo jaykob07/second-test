@@ -12,7 +12,6 @@ main{
     width: 900px;;
     display: flex;
     align-items:center;
-    justify-items:;
     flex-direction: column;
     padding: 10px;
 }
