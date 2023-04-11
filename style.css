@@ -20,7 +20,7 @@ main{
     align-items: flex-end;
     height: 100px;
     width: 100px;
-    background-color: rgb(199, 139, 49);
+    background-color:bisque(199, 139, 49);
     border-radius: 10px;
     padding: 10px;
 
